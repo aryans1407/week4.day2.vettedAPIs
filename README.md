@@ -19,6 +19,7 @@
    - The website should be responsive and work properly on a mobile device:
      - The target device is iPhone5 (320x568)
    - The website should include 2 or more event handlers
+   - The website must be properly hosted on GitHub
 4. First, Brainstorm the concept for your website and present your idea to your instructors, making sure to outline:
    - Which API’s you’re using and how they’ll work together
    - What each person is doing
