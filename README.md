@@ -15,6 +15,8 @@
    - [Random Cat Images API](http://thecatapi.com/)
    - [National Nutrition Database API](https://ndb.nal.usda.gov/ndb/api/doc)
    - ...or [find another API here!](https://www.programmableweb.com/apis/directory)
+   - ...or [here](https://github.com/toddmotto/public-apis)!
+   - ...or [here](https://any-api.com/)!
 3. Requirements:
    - The website should be responsive and work properly on a mobile device:
      - The target device is iPhone5 (320x568)
@@ -37,3 +39,5 @@
 
 ## Helpful Resources
 - [ProgrammableWeb API Search](https://www.programmableweb.com/apis/directory)
+- [Public APIs](https://github.com/toddmotto/public-apis)
+- [Any API Website](https://any-api.com/)
